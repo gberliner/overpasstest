@@ -4,5 +4,7 @@ Demonstration of using overpass query to list an address in proximity (10 meters
 
 Just do the usual, ie:
 
-> npm install
-> npm start
+* npm install
+* npm start
+
+etc.
